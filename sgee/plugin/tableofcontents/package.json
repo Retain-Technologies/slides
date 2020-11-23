@@ -1,0 +1,54 @@
+{
+  "_from": "reveal.js-tableofcontents",
+  "_id": "reveal.js-tableofcontents@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-hyPn9p6KFHtIyPhWaDK3hC770vjdvwFSlQlKKlgUKRXazSgfKed2vLDWKOB0qDrvNRFaUTfMrsSbis7AU60rag==",
+  "_location": "/reveal.js-tableofcontents",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "reveal.js-tableofcontents",
+    "name": "reveal.js-tableofcontents",
+    "escapedName": "reveal.js-tableofcontents",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reveal.js-tableofcontents/-/reveal.js-tableofcontents-1.0.0.tgz",
+  "_shasum": "ca95ee2ac0cc8882af89b76b4f46047ed94ea492",
+  "_spec": "reveal.js-tableofcontents",
+  "_where": "C:\\www\\slides\\aplicaefiservicio-sgee",
+  "author": {
+    "name": "Roman Stocker"
+  },
+  "bugs": {
+    "url": "https://github.com/naamor/reveal.js-tableofcontents/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A table of contents plugin for reveal.js to generate automatically a table of contents slide",
+  "homepage": "https://github.com/naamor/reveal.js-tableofcontents#readme",
+  "keywords": [
+    "reveal-js",
+    "revealjs",
+    "reveal",
+    "reveal-plugin",
+    "reveal-js-plugin"
+  ],
+  "license": "MIT",
+  "main": "tableofcontents.js",
+  "name": "reveal.js-tableofcontents",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naamor/reveal.js-tableofcontents.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
